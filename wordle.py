@@ -1,5 +1,7 @@
+import os
 from colorama import Fore, Back, Style
 import random
+os.system("")
 print(f"\nWelcome to Pordle, the rules are the same as normal wordle, good luck")
 # verifys the word you entered is a real word
 valid_list = []
